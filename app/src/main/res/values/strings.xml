@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ThatMate_quiz</string>
+    <string name="finishButton">Finish</string>
+    <string name="NextButton">Next</string>
+    <string name="ScoreTextView">Score:</string>
+</resources>
